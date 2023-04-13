@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "56330359216",
+    "firebase_url": "https://emergency-call-7884a-default-rtdb.firebaseio.com",
+    "project_id": "emergency-call-7884a",
+    "storage_bucket": "emergency-call-7884a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:56330359216:android:18aabb5ec305b65cce0675",
+        "android_client_info": {
+          "package_name": "com.example.adminpanel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "56330359216-dbke1aje4cnve12h5ouj5rmas2od4srh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANO6Vt8tJuk17DXEPcivgSh7EKvOj_6_c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "56330359216-dbke1aje4cnve12h5ouj5rmas2od4srh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:56330359216:android:78089315078d59b6ce0675",
+        "android_client_info": {
+          "package_name": "com.example.emergencycall"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "56330359216-dbke1aje4cnve12h5ouj5rmas2od4srh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANO6Vt8tJuk17DXEPcivgSh7EKvOj_6_c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "56330359216-dbke1aje4cnve12h5ouj5rmas2od4srh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:56330359216:android:5ec6167b2bd69ee3ce0675",
+        "android_client_info": {
+          "package_name": "com.sddk.emergencycallpapalagi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "56330359216-dbke1aje4cnve12h5ouj5rmas2od4srh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANO6Vt8tJuk17DXEPcivgSh7EKvOj_6_c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "56330359216-dbke1aje4cnve12h5ouj5rmas2od4srh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
