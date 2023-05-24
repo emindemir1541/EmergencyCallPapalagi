@@ -6,7 +6,6 @@ import com.google.firebase.ktx.Firebase
 
 object FirebaseModule {
 
-
     fun provideFireStoreInstance():DatabaseReference{
         return FirebaseDatabase.getInstance().getReference(FirebasePaths.dataStore)
     }

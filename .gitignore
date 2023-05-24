@@ -13,3 +13,4 @@
 .externalNativeBuild
 .cxx
 local.properties
+/app/src/main/java/com/sddk/emergencycallpapalagi/main/data/firebase/userrepository/UserRepositoryImpl.kt
